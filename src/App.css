@@ -33,7 +33,7 @@
   z-index: 1;
 }
 
-.get-started-btn {
+.get_started_btn {
   background-color:#EFC16B;
   /* color: white; */
   color: black;
@@ -44,7 +44,7 @@
   cursor: pointer;
 }
 
-.get-started-btn:hover {
+.get_started_btn:hover {
   background-color: #c1974a;
 }
 
