@@ -310,7 +310,7 @@
     
     
     .navbar_event_conference{
-        position: fixed;
+        position: static;
         top: 1px;
         z-index: 99;
     }
